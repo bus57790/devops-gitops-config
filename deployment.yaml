@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: devops-lab-app
-        image: bus57790/devops-lab-app:1
+        image: bus57790/devops-lab-app:7
         ports:
         - containerPort: 5000
         resources:
